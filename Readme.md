@@ -92,8 +92,8 @@ To run these programs, you'll need:
 ### 11. Basic Animations
    Demonstrates simple animations using the graphics library.
 
-[!NOTE]
-The actual program names may not fully align with the descriptions provided, as they were created for practicals.
+> [!NOTE]
+> The actual program names may not fully align with the descriptions provided, as they were created for practicals.
 
 ## Contributing
 
