@@ -45,8 +45,8 @@ To run these programs, you'll need:
 
 2. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/computer-graphics-programs.git
-   cd computer-graphics-programs
+   git clone https://github.com/DevadattaP/Computer-Graphics.git
+   cd Computer-Graphics
    ```
 
 3. **Open Turbo C++:**
